@@ -1,0 +1,42 @@
+h4 {
+    color: white;
+}
+h1 {
+    color : lavender;
+}
+img {
+    width: 500px;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #c494ff, white);
+}
+
+.statement {
+    color: #f7aafa;
+}
+
+.show {
+    color: #281796;
+}
+
+.story {
+    color: #700fba;
+}
+
+.end {
+    border: 4px solid #fac3fa;
+}
+
+.title {
+    font-family: 'Amita', cursive;
+}
+.text {
+    font-family: 'News Cycle', sans-serif;
+}
+.text {
+    font-size: 14px;
+}
+h1 {
+    font-size: 20px;
+}
